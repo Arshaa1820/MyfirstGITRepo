@@ -10,6 +10,8 @@ public class Program1 {
 		//System.out.println("This is my 1st Program with sub :" + c);
 		//System.out.println("This is my 1st Program with add :" + c);
 		System.out.println("This is mul :" + c);
+		 int d = 50;
+		for (int )
 
 	}
 
